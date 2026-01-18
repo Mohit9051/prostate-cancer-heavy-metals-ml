@@ -6,7 +6,7 @@ Prostate cancer risk prediction using Random Forest and Logistic Regression on N
 This repository provides a complete and reproducible machine learning pipeline to predict **prostate cancer (PCa) risk** using blood and urine heavy metal biomarkers from the **NHANES** dataset. The project reproduces the methodology and key findings of a published research study using interpretable machine learning techniques.
 
 Author: Mohit Tiwari  
-Roll No: CBAIP2DSC25020
+
 
 ---
 
